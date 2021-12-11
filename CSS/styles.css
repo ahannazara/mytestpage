@@ -1,0 +1,198 @@
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+  font-family: sacramento;
+/*----------------------------------------------------------------*/
+}
+  hr{
+    padding-top: 20px;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+    border-color: #7F8B52;
+    border-width: 5px;
+}
+/*----------------------------------------------------------------*/
+
+h1{
+  font-size: 563%;
+  color: #005A8D;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 80px;
+  font-family: 'sacramento', cursive;
+}
+h2{
+
+  font-family: 'notosansTC',cursive;
+  color: #005A8D;
+  font-weight: bolder;
+  padding-bottom: 10px;
+
+}
+h3{
+  font-family: 'notosansTC',cursive;
+  color: #005A8D;
+  font-weight: bolder;
+}
+h4{
+  font-family: 'notosansTC',cursive;
+  color: #005A8D;
+  font-weight: bolder;
+}
+h5{
+  font-family: 'notosansTC',cursive;
+  color: #005A8D;
+  font-weight: bolder;
+}
+h6{
+  font-family: 'notosansTC',cursive;
+  color: #005A8D;
+  font-weight: bolder;
+}
+/*----------------------------------------------------------------*/
+p{
+font-family: 'Merriweather', cursive;
+}
+/*----------------------------------------------------------------*/
+img{
+
+
+}
+/*----------------------------------------------------------------*/
+.logo1{
+  width: 600px;
+
+  right: 340px;
+  top: 280px;
+
+}
+/*----------------------------------------------------------------*/
+.topcontainer{
+  background-color: #CAF7E3;
+
+  padding-bottom: 0px;
+
+  position: relative;
+/*----------------------------------------------------------------*/
+}
+
+.profiles{
+
+  padding-top: 50px;
+
+}
+/*----------------------------------------------------------------*/
+.middle-container{
+
+  margin: 100px, 0;
+  background-color: #F8EDED;
+}
+/*----------------------------------------------------------------*/
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+  text-align: left;
+  line-height: 2;
+}
+/*----------------------------------------------------------------*/
+.contact-me{
+  font-size: 10px;
+  font-family: 'Merriweather', cursive;
+  background-color: #F6DFEB;
+  margin-left: 0px;
+  margin-bottom:  0px;
+  margin-right: 0px;
+  padding-bottom: 40px;
+}
+/*----------------------------------------------------------------*/
+.bottom-container{
+  font-family: 'Merriweather', cursive;
+  background-color:#E4BAD4;
+  margin-left: 0px;
+  margin-bottom:  0px;
+  margin-right: 0px;
+  padding-bottom: 40px;
+}
+/*----------------------------------------------------------------*/
+.footer-link{
+
+  font-family: 'notosansTC',cursive;
+  color: #005A8D;
+  font-weight: bolder;
+}
+/*----------------------------------------------------------------*/
+.monkecoding{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+/*----------------------------------------------------------------*/
+.draw{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+/*----------------------------------------------------------------*/
+.BUTTON_AQL {
+  width: 200px;
+   background: #CAF7E3;
+   background-image: -webkit-linear-gradient(top, #CAF7E3, #CAF7E3);
+   background-image: -moz-linear-gradient(top, #CAF7E3, #CAF7E3);
+   background-image: -ms-linear-gradient(top, #CAF7E3, #CAF7E3);
+   background-image: -o-linear-gradient(top, #CAF7E3, #CAF7E3);
+   background-image: -webkit-gradient(to bottom, #CAF7E3, #CAF7E3);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #0059A0;
+   font-family: Brush Script MT;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #CAF7E3 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+/*----------------------------------------------------------------*/
+.BUTTON_AQL:hover {
+   background: #1E62D0;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+/*----------------------------------------------------------------*/
+.intro{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 40px;
+}
+/*----------------------------------------------------------------*/
+.contac-message{
+
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+/*----------------------------------------------------------------*/
+a{
+margin: 10px 20px;
+text-decoration: none;
+}
+/*----------------------------------------------------------------*/
+a:hover{
+  color: white;
+}
